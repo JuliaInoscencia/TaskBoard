@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\task\\edittask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\task\\edittask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\task\\done.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\task\\done.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\task\\todo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\task\\todo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\task\\inprogress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\task\\inprogress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\task\\deletetask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\task\\deletetask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\models\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\models\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|c:\\users\\julia.dos.santos\\source\\repos\\atv4mvc\\tasksboard\\views\\task\\addtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3875CC5B-ED40-420D-A1CC-1E58ECF15C38}|TasksBoard\\TasksBoard.csproj|solutionrelative:tasksboard\\views\\task\\addtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TasksBoard\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TasksBoard\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAcwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:59:37.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Done.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\Done.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Task\\Done.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\Done.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Task\\Done.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:22:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteTask.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\DeleteTask.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Task\\DeleteTask.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\DeleteTask.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Task\\DeleteTask.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:15:29.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InProgress.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\InProgress.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Task\\InProgress.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\InProgress.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Task\\InProgress.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:21:40.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDo.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\ToDo.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Task\\ToDo.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\ToDo.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Task\\ToDo.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:21:03.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditTask.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\EditTask.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Task\\EditTask.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\EditTask.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Task\\EditTask.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:14:54.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Task\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:12:37.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:17:54.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TasksBoard\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TasksBoard\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:15:50.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:18:02.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddTask.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\AddTask.cshtml",
+              "RelativeDocumentMoniker": "TasksBoard\\Views\\Task\\AddTask.cshtml",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Views\\Task\\AddTask.cshtml",
+              "RelativeToolTip": "TasksBoard\\Views\\Task\\AddTask.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T16:14:10.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskBoard.cs",
+              "DocumentMoniker": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Models\\TaskBoard.cs",
+              "RelativeDocumentMoniker": "TasksBoard\\Models\\TaskBoard.cs",
+              "ToolTip": "C:\\Users\\julia.dos.santos\\source\\repos\\Atv4MVC\\TasksBoard\\Models\\TaskBoard.cs",
+              "RelativeToolTip": "TasksBoard\\Models\\TaskBoard.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:09:03.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

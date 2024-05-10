@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<TaskBoard>
+
+<h1>Lista de Tarefas</h1>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<p>
+    <a asp-action="AddTask">Adicionar Tarefa</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Descrição</th>
+            <th>Data de Início</th>
+            <th>Data de Conclusão</th>
+            <th>Status</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            <tr>
+                <td>@task.Description</td>
+                <td>@task.StartDate.ToString("dd/MM/yyyy")</td>
+                <td>@(task.CompleteDate.HasValue ? task.CompleteDate.Value.ToString("dd/MM/yyyy") : "")</td>
+                <td>@task.Status</td>
+                <td>
+                    <a asp-action="CompleteTask" asp-route-id="@task.Id">Concluir</a> |
+                    <a asp-action="EditTask" asp-route-id="@task.Id">Editar</a> |
+                    <a asp-action="DeleteTask" asp-route-id="@task.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

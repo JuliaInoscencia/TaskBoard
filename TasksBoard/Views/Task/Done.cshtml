@@ -1,0 +1,30 @@
+﻿@model List<TaskBoard>
+
+<h1>Tarefas Concluídas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Descrição</th>
+            <th>Data de Início</th>
+            <th>Data de Conclusão</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            <tr>
+                <td>@task.Description</td>
+                <td>@task.StartDate.ToString("dd/MM/yyyy")</td>
+                <td>@(task.CompleteDate.HasValue ? task.CompleteDate.Value.ToString("dd/MM/yyyy") : "")</td>
+                <td>
+                    <a asp-action="ToDo" asp-route-id="@task.Id">Para Fazer</a> |
+                    <a asp-action="InProgress" asp-route-id="@task.Id">Em Progresso</a> |
+                    <a asp-action="EditTask" asp-route-id="@task.Id">Editar</a> |
+                    <a asp-action="DeleteTask" asp-route-id="@task.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
